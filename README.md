@@ -1,5 +1,7 @@
 # BMW-SALES-ANALYSIS
 
+png.jpeg
+
 ## Overview
 This project involves in-depth analysis of BMW sales, the goal is to extract some valuable insights like country wise total sales
 
