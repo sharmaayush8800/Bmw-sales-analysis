@@ -1,5 +1,6 @@
 ## 🔍 Overview
 
+
 This project focuses on analyzing BMW car sales data using Microsoft Excel and Power BI to uncover meaningful business insights. The analysis helps understand sales performance across different countries, years, months, and car models, enabling data-driven decision-making.
 
 The project transforms raw sales data into interactive dashboards that highlight trends, comparisons, and key performance indicators relevant to the automotive sales domain.
@@ -54,4 +55,5 @@ This project demonstrates the effective use of Excel and Power BI for sales anal
 
 ## 📱Screenshot/Demo
 
-Here's how the dashboard looks 
+Here's how the dashboard looks ![Dashboard Preview](https://raw.githubusercontent.com/username/repository-name/main/images/dashboard.png)
+
