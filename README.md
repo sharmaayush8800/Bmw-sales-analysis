@@ -6,11 +6,11 @@ The project transforms raw sales data into interactive dashboards that highlight
 
 ## 🎯 Objectives
 
-- Analyze BMW model-wise sales across different countries
-- Compare year-over-year sales performance
-- Study monthly car sales trends
-- Identify top-selling models of the year
-- Identify most expensive BMW models based on sales data
+- Analyze BMW model-wise sales across different countries.
+- Compare year-over-year sales performance.
+- Study monthly car sales trends.
+- Identify top-selling models of the year.
+- Identify most expensive BMW models based on sales data.
 
 ## 🛠 Tools & Technologies
 
@@ -24,29 +24,25 @@ The project transforms raw sales data into interactive dashboards that highlight
 
 ## 📊 Key Analysis & Features
 
-- Country-wise Model Sales
-  Visual comparison of BMW model performance across multiple countries.
-- Yearly Sales Comparison
-  Analysis of sales growth and decline across different years.
-- Monthly Sales Trend Analysis
-  Identification of seasonal patterns and peak sales months.
-- Top-Selling Model of the Year
-  Highlights the best-performing BMW model based on total sales.
-- Most Expensive Models
-  Identifies premium BMW models contributing the highest revenue.
+- Country-wise Model Sales visual comparison of BMW model performance across multiple countries.
+- Yearly Sales Comparison analysis of sales growth and decline across different years.
+- Monthly Sales Trend Analysis identification of seasonal patterns and peak sales months.
+- Top-Selling Model of the Year highlights the best-performing BMW model based on total sales.
+- Most Expensive Models identifies premium BMW models contributing the highest revenue.
+- Models sales analysis across multiple channels.
 
 ## 📈 Insights Generated
 
-- Clear visibility into regional market performance
-- Identification of high-demand and premium models
-- Understanding of seasonal sales trends
-- Improved comparison of sales performance over time
+- Clear visibility into regional market performance.
+- Identification of high-demand and premium models.
+- Understanding of seasonal sales trends.
+- Improved comparison of sales performance over time.
 
 ## 📂 Project Deliverables
 
-- Cleaned and structured Excel dataset
-- Power BI dashboard with interactive visuals
-- Insights for sales strategy and business optimization
+- Cleaned and structured Excel dataset.
+- Power BI dashboard with interactive visuals.
+- Insights for sales strategy and business optimization.
 
 ## 🚩Conclusion
 
