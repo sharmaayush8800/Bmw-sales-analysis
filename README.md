@@ -50,6 +50,6 @@ This project demonstrates the effective use of Excel and Power BI for sales anal
 
 ## 📱Screenshot/Demo
 
-Here's how the dashboard looks [![Dashboard Preview](images/dashboard.png)](https://github.com/sharmaayush8800/Bmw-sales-analysis/blob/main/DashboardLook.png)
+Here's how the dashboard looks [![Dashboard Preview](images/dashboard.png)](https://github.com/sharmaayush8800/Bmw-sales-analysis/blob/main/Dashboard.png)
 
 
